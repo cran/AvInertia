@@ -1,6 +1,6 @@
 Package: AvInertia
 Title: Calculate the Inertial Properties of a Flying Bird
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: 
     c(person(given = "Christina",
            family = "Harvey",
@@ -35,10 +35,10 @@ Depends: R (>= 3.5.0)
 URL: https://github.com/charvey23/AvInertia
 BugReports: https://github.com/charvey23/AvInertia/issues
 NeedsCompilation: no
-Packaged: 2021-07-21 18:10:13 UTC; christinaharvey
+Packaged: 2022-03-24 15:07:56 UTC; christinaharvey
 Author: Christina Harvey [aut, cre] (<https://orcid.org/0000-0002-2830-0844>),
   Vikram B. Baliga [aut] (<https://orcid.org/0000-0002-9367-8974>),
   Jasmin C.M. Wong [aut] (<https://orcid.org/0000-0003-4648-2503>)
 Maintainer: Christina Harvey <harveyca@umich.edu>
 Repository: CRAN
-Date/Publication: 2021-07-22 07:00:09 UTC
+Date/Publication: 2022-03-24 15:50:02 UTC
